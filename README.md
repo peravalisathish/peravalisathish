@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathish </h1>
+<h1 align="center">Hi 👋, I'm Peravali Sathish </h1>
 <!-- ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif) -->
 <center><img align='center' alt='coding img' width='80%' src='https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif'></center>
 
